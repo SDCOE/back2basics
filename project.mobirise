@@ -193,13 +193,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "<a href=\"https://drive.google.com/file/d/1U0VvOdPa_CBdGFXx1ImjPjmAv-d7q9U_/view?usp=sharing\" target=\"_blank\" class=\"text-primary\">Download flyer</a>",
           "_tags": [
             "Theme"
           ],
@@ -248,13 +248,12 @@
               "active": true,
               "link": "http://www.sdcue.org",
               "alt": "Powered Learning Month Oct 2020",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blankimageholder-600x450.png",
+              "src": "@PROJECT_PATH@/assets/images/back2basics-600x848.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -330,7 +329,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "The San Diego County Office of Education's Educational Technology Department and San Diego CUE are excited to partner in offering a series of free, beginner level courses for county teachers.<div><br></div><div>To help with online course building, we will offer sessions on Google Docs &amp; Drive, Google Slides, Google Forms, Google Classroom, and Screencasting.</div><div><br></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div>",
+          "text": "<p>The San Diego County Office of Education's Educational Technology Department and San Diego CUE are excited to partner in offering a series of free, beginner level courses for county teachers to help prepare for school and for the <a href=\"http://sdcue.org\" target=\"_blank\">SDCUE Powered Learning Month</a>&nbsp;which takes place from Oct 12 through Nov 5. </p><p><br></p><p><b>Build your basic skills then learn more at </b><a href=\"http://sdcue.org\" target=\"_blank\"><b>SDCUE's Powered Learning Month</b></a><b>.&nbsp;</b></p><div><br></div><div>To help with your online course building, and refining we will offer sessions on Google Docs &amp; Drive, Google Slides, Google Forms, screencasting and Google Classroom. We are offering a two hour session to help you put all your new skills together in an organized Google Classroom. &nbsp;&nbsp;</div><div><br></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div><div><br></div><div>These workshops are geared toward classroom teachers and classroom support staff. They are not geared toward school office staff or other support staff.</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -356,7 +355,7 @@
             "bgColor": "#fff"
           },
           "title": "Registration",
-          "meta": "<br>Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session.<br><br>Click on the boxes below for the registration link.",
+          "meta": "<br>Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist.&nbsp;<br><br>Click on the boxes below for the registration link.",
           "_tags": [
             "Theme"
           ],

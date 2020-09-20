@@ -547,3 +547,7 @@ section.form .container {
   text-align: left;
   color: #005488;
 }
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}

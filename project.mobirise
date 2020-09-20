@@ -40,7 +40,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 49,
+    "uniqCompNum": 51,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -491,6 +491,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/2020-powered-learning-fair-tickets-119844729813\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR SDCUE's POWERED LEARNING MONTH</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SDCUE WEBSITE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1e"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -592,6 +605,26 @@
               "color": "#005488"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d"
         }
       ]
     }

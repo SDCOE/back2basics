@@ -40,7 +40,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 51,
+    "uniqCompNum": 46,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -605,26 +605,6 @@
               "color": "#005488"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1d"
         }
       ]
     }

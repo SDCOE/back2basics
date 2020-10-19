@@ -26,7 +26,8 @@
         "#005488",
         "#d6ab24",
         "#acacac",
-        "#00ef25"
+        "#00ef25",
+        "#8c8c8c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -46,7 +47,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -351,20 +352,21 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#005488"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#005488"
           },
-          "title": "Registration",
-          "meta": "<br>Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist.&nbsp;<br><br>Click on the boxes below for the registration link.",
+          "title": "<span style=\"font-weight: normal;\">Registration</span>",
+          "meta": "<br>Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist.&nbsp;<br><br><b>Click on the boxes below for the registration link.</b>",
           "_tags": [
             "Theme"
           ],
@@ -378,6 +380,9 @@
             },
             ".mbr-section-title": {
               "color": "#00aeef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -387,7 +392,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics Series",
-          "meta": "Review the Core Google Suite for Education Apps",
+          "meta": "Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
           "_tags": [
             "Theme"
           ],
@@ -655,6 +660,9 @@
             },
             ".mbr-section-title": {
               "color": "#00aeef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -664,7 +672,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics 2.0",
-          "meta": "Explore other high-impact apps that increase classroom efficiency and engagement.<br>Jan 26 through Feb 4",
+          "meta": "Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
           "_tags": [
             "Theme"
           ],
@@ -699,8 +707,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "pages",
-              "family": "MobiriseIcons",
+              "name": "user-2",
+              "family": "Mobirise2",
               "active": true,
               "link": "index.html#features6-v",
               "size": "",
@@ -712,8 +720,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "sites",
-              "family": "MobiriseIcons",
+              "name": "video-play",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
               "size": 0,
@@ -725,8 +733,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "bulleted-list",
-              "family": "MobiriseIcons",
+              "name": "browse",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://learninginnovationsummit2020.sched.com/",
               "size": 0,
@@ -739,7 +747,7 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "video",
-              "family": "MobiriseIcons",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -805,6 +813,9 @@
             },
             ".mbr-section-title": {
               "color": "#00aeef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -814,7 +825,7 @@
             "bgColor": "#fff"
           },
           "title": "Beyond the Basics Series",
-          "meta": "Take a short, but deeper dive into topics around technology integration",
+          "meta": "Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -849,8 +860,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "pages",
-              "family": "MobiriseIcons",
+              "name": "features",
+              "family": "Mobirise2",
               "active": true,
               "link": "index.html#features6-v",
               "size": "",
@@ -862,8 +873,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "sites",
-              "family": "MobiriseIcons",
+              "name": "delivery",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
               "size": 0,
@@ -875,8 +886,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "bulleted-list",
-              "family": "MobiriseIcons",
+              "name": "puzzle",
+              "family": "et-line",
               "active": true,
               "link": "https://learninginnovationsummit2020.sched.com/",
               "size": 0,
@@ -888,8 +899,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "video",
-              "family": "MobiriseIcons",
+              "name": "numbered-list",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -947,6 +958,19 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
           "_anchor": "features6-1f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR CLASSES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCUE WEBSITE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1g"
         },
         {
           "_params": {

@@ -532,10 +532,11 @@ section.form .container {
   text-align: center;
 }
 #header3-1c .mbr-section-title {
-  color: #005488;
+  color: #ffffff;
 }
 #header3-1c .mbr-section-subtitle {
   text-align: left;
+  color: #ffffff;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
@@ -544,6 +545,9 @@ section.form .container {
 #header3-1b .mbr-section-title {
   color: #00aeef;
 }
+#header3-1b .mbr-section-subtitle {
+  color: #000000;
+}
 #header3-1c .mbr-section-title,
 #header3-1c .mbr-section-subtitle {
   text-align: center;
@@ -551,12 +555,18 @@ section.form .container {
 #header3-1c .mbr-section-title {
   color: #00aeef;
 }
+#header3-1c .mbr-section-subtitle {
+  color: #000000;
+}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1e .mbr-section-title {
   color: #00aeef;
+}
+#header3-1e .mbr-section-subtitle {
+  color: #000000;
 }
 #msg-box5-q P {
   color: #005488;

@@ -25,7 +25,8 @@
         "#00aeef",
         "#005488",
         "#d6ab24",
-        "#acacac"
+        "#acacac",
+        "#00ef25"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,15 +36,21 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "siteUrl": "https://summit.innovatesd.org",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 46,
-    "versionPublish": "4.10.8",
+    "uniqCompNum": 52,
+    "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -175,7 +182,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "BACK 2 BASICS<br><br>",
-          "text": "A SERIES OF WORKSHOPS FOR BEGINNERS<br>Oct. 5, 6, 7, 8 from 5 to 6 pm<br>Saturday Oct. 10 from 9 to 11am",
+          "text": "A SERIES OF WORKSHOPS FOR BEGINNERS<br>Check below for upcoming dates and sessions",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
@@ -199,7 +206,7 @@
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
-          "meta": "<a href=\"https://drive.google.com/file/d/1U0VvOdPa_CBdGFXx1ImjPjmAv-d7q9U_/view?usp=sharing\" target=\"_blank\" class=\"text-primary\">Download flyer</a>",
+          "meta": "<a href=\"https://drive.google.com/file/d/1yAo8ocJD2xWATHxU_WnITXb1oN5YE81E/view?usp=sharing\" target=\"_blank\" class=\"text-primary\">Download flyer</a>",
           "_tags": [
             "Theme"
           ],
@@ -242,24 +249,26 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/poweredlearningmonth-486x477.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcue-rd-bue-rgb-1-600x595.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "http://www.sdcue.org",
-              "alt": "Powered Learning Month Oct 2020",
-              "title": ""
+              "alt": "SDCUE Logo",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/back2basics-600x848.jpg",
+              "src": "@PROJECT_PATH@/assets/images/b2b-schedule2020-2021-600x776.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "blank placeholder",
-              "title": ""
+              "link": "https://drive.google.com/file/d/1yAo8ocJD2xWATHxU_WnITXb1oN5YE81E/view?usp=sharing",
+              "alt": " back to basics flyer with generic information",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -329,7 +338,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>The San Diego County Office of Education's Educational Technology Department and San Diego CUE are excited to partner in offering a series of free, beginner level courses for county teachers to help prepare for school and for the <a href=\"http://sdcue.org\" target=\"_blank\">SDCUE Powered Learning Month</a>&nbsp;which takes place from Oct 12 through Nov 5. </p><p><br></p><p><b>Build your basic skills then learn more at </b><a href=\"http://sdcue.org\" target=\"_blank\"><b>SDCUE's Powered Learning Month</b></a><b>.&nbsp;</b></p><div><br></div><div>To help with your online course building, and refining we will offer sessions on Google Docs &amp; Drive, Google Slides, Google Forms, screencasting and Google Classroom. We are offering a two hour session to help you put all your new skills together in an organized Google Classroom. &nbsp;&nbsp;</div><div><br></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div><div><br></div><div>These workshops are geared toward classroom teachers and classroom support staff. They are not geared toward school office staff or other support staff.</div><p></p>",
+          "text": "<p>The San Diego County Office of Education's Educational Technology Department and San Diego CUE (SDCUE) are excited to partner in offering a series of free, beginner level courses for county teachers to help prepare for school and for further events offered by SDCUE through out the year!&nbsp;</p><p><br></p><p><b>Build your basic skills then learn more with events offered by&nbsp;</b><b><a href=\"http://sdcue.org\" target=\"_blank\"><b>SDCUE</b></a>. Find out about membership opportunities at <b><a href=\"http://sdcue.org\" class=\"text-primary\" target=\"_blank\">sdcue.org</a>&nbsp;</b></b></p><div><br></div><div>To help with your online course building, and refining we will offer sessions on Google Docs &amp; Drive, Google Slides, Google Forms, screencasting and Google Classroom. We are offering a two hour session to help you put all your new skills together in an organized Google Classroom. &nbsp;&nbsp;</div><div><br></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div><div><br></div><div>These workshops are geared toward classroom teachers and classroom support staff. They are not geared toward school office staff or other support staff.</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -363,6 +372,29 @@
           "_anchor": "header3-1c"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00aeef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Back 2 Basics Series",
+          "meta": "Review the Core Google Suite for Education Apps",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1b"
+        },
+        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
@@ -372,7 +404,284 @@
             "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00aeef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "folder",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "index.html#features6-v",
+              "size": "",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "document",
+              "family": "et-line",
+              "active": true,
+              "link": "https://learninginnovationsummit2020.sched.com/",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "documents",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Drive<br>Tuesday, Nov 17<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drive a Little Further<br>Thursday, Nov 19<br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Docs<br>Tuesday, Dec 1<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Do More with Docs<br>Thursday, Dec 3<br>5 to 6 pm<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-v"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00aeef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#features6-v",
+              "size": "",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "bulleted-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://learninginnovationsummit2020.sched.com/",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Drawing<br>Tuesday, Dec 8<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Slides<br>Thursday, Dec 10<br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Forms<br>Tuesday, Dec 15<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sheets for use with Slides<br>Thursday, Dec 17&nbsp;<br>5 to 6 pm<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-1a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00aeef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Back 2 Basics 2.0",
+          "meta": "Explore other high-impact apps that increase classroom efficiency and engagement.<br>Jan 26 through Feb 4",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1c"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
             "parallax": true,
@@ -480,27 +789,164 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Docs &amp; Drive<br>Monday Oct. 5<br>5 to 6 pm<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Slides<br>Tuesday Oct. 6<br>5 to 6 pm<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Forms<br>Wednesday Oct. 7<br>5 to 6 pm<br></a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Screencasting<br>Thursday Oct. 8<br>5 to 6 pm<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Flipgrid<br>Tuesday, Jan 26<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Screencastify<br>Thursday, Jan 28 <br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Jamboard<br>Tuesday, Feb 2<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Seesaw<br>Thursday, Feb 4<br>5 to 6 pm<br></a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-v"
+          "_anchor": "features6-1d"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00aeef"
+            }
+          },
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/2020-powered-learning-fair-tickets-119844729813\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR SDCUE's POWERED LEARNING MONTH</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">SDCUE WEBSITE</a>",
+          "title": "Beyond the Basics Series",
+          "meta": "Take a short, but deeper dive into topics around technology integration",
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1e"
+          "_name": "header3",
+          "_anchor": "header3-1e"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00aeef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pages",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#features6-v",
+              "size": "",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "sites",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "bulleted-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://learninginnovationsummit2020.sched.com/",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enhanced Packet <br>Instruction - Going Old School<br>Tuesday, Feb 23<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Frameworks for <br>Technology Integration<br>Thursday, Feb 25<br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Managing Small Group <br>Instruction Online<br>Tuesday, Mar 2<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Same Assignment<br>Different Levels<br>Thursday, Mar 4<br>5 to 6 pm<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-1f"
         },
         {
           "_params": {

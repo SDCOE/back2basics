@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 
 
 
@@ -536,6 +536,27 @@ section.form .container {
 }
 #header3-1c .mbr-section-subtitle {
   text-align: left;
+}
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1b .mbr-section-title {
+  color: #00aeef;
+}
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c .mbr-section-title {
+  color: #00aeef;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e .mbr-section-title {
+  color: #00aeef;
 }
 #msg-box5-q P {
   color: #005488;

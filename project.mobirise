@@ -32,10 +32,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-128x99.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
+    "cookiesAlert": false,
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",

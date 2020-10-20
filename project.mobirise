@@ -383,7 +383,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],

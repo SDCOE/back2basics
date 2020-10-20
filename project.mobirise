@@ -47,7 +47,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 53,
+    "uniqCompNum": 61,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -357,26 +357,38 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             ".mbr-section-subtitle": {
-              "text-align": "left",
               "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#005488"
           },
-          "title": "<span style=\"font-weight: normal;\">Registration</span>",
-          "meta": "<br>Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist.&nbsp;<br><br><b>Click on the boxes below for the registration link.</b>",
+          "title": "REGISTRATION",
+          "meta": "Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist. ",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1c"
+          "_anchor": "header3-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1k"
         },
         {
           "_styles": {
@@ -408,10 +420,10 @@
           "_inherit": "features3",
           "_params": {
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": true,
+            "ShowTexts": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "4",
@@ -504,18 +516,18 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Bootstrap 4",
+          "title1": "Google Drive",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "caption1": "Tuesday, Nov 17<br>5 to 6 pm",
+          "title2": "Drive a Little Further",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "caption2": "Thursday, Nov 19<br>5 to 6 pm",
+          "title3": "Google Docs",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "caption3": "Tuesday, Dec 1<br>5 to 6 pm",
+          "title4": "Do More with Docs",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Thursday, Dec 3<br>5 to 6 pm",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -529,16 +541,24 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-v"
+          "_anchor": "features6-v",
+          "_styles": {
+            "H4": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": true,
+            "ShowTexts": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "4",
@@ -631,18 +651,18 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Bootstrap 4",
+          "title1": "Google Drawing",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "caption1": "Tuesday, Dec 8<br>5 to 6 pm",
+          "title2": "Google Slides",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "caption2": "Thursday, Dec 10<br>5 to 6 pm",
+          "title3": "Google Forms",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "caption3": "Tuesday, Dec 15<br>5 to 6 pm",
+          "title4": "Sheets for use with Forms",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Thursday, Dec 17 <br>5 to 6 pm",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -656,7 +676,15 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-1a"
+          "_anchor": "features6-1a",
+          "_styles": {
+            "H4": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -688,10 +716,10 @@
           "_inherit": "features3",
           "_params": {
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": true,
+            "ShowTexts": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "4",
@@ -784,18 +812,18 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Bootstrap 4",
+          "title1": "Flipgrid",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "caption1": "Tuesday, Jan 26<br>5 to 6 pm",
+          "title2": "Screencastify",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "caption2": "Thursday, Jan 28 <br>5 to 6 pm",
+          "title3": "Google Jamboard",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "caption3": "Tuesday, Feb 2<br>5 to 6 pm",
+          "title4": "Seesaw",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Thursday, Feb 4<br>5 to 6 pm",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -809,7 +837,15 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-1d"
+          "_anchor": "features6-1d",
+          "_styles": {
+            "H4": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -841,10 +877,10 @@
           "_inherit": "features3",
           "_params": {
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": true,
+            "ShowTexts": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "4",
@@ -937,18 +973,18 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Bootstrap 4",
+          "title1": "Enhanced Packet Instruction-<br>Going Old School",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "caption1": "Tuesday, Feb 23<br>5 to 6 pm",
+          "title2": "Frameworks for&nbsp;<div>Technology Integration</div>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "caption2": "Thursday, Feb 25<br>5 to 6 pm",
+          "title3": "Managing Small Group&nbsp;<div>Instruction Online</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "caption3": "Tuesday, Mar 2<br>5 to 6 pm",
+          "title4": "Same Assignment<div>Different Levels</div>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Thursday, Mar 4<br>5 to 6 pm",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -962,7 +998,15 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-1f"
+          "_anchor": "features6-1f",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#f3c649"
+            }
+          }
         },
         {
           "_params": {
@@ -970,12 +1014,25 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR CLASSES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCUE WEBSITE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1g"
+          "_anchor": "buttons1-1n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/1yMfQqNX-cYTGEBm0Kn8lYIVA8xbTVD5m_mlt_lvouDY/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCOE WEBSITE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCUE WEBSITE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1m"
         },
         {
           "_params": {

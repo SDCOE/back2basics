@@ -527,6 +527,9 @@ section.form .container {
 #header3-1b .mbr-section-title {
   color: #005488;
 }
+#content1-1a P {
+  font-size: 17px;
+}
 #header3-1c .mbr-section-title,
 #header3-1c .mbr-section-subtitle {
   text-align: center;

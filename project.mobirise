@@ -250,14 +250,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcue-rd-bue-rgb-1-600x595.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-600x465.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://www.sdcue.org",
-              "alt": "SDCUE Logo",
+              "link": "http://www.sdcoe.net",
+              "alt": "SCDCOE Future without boundaries",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -274,12 +274,12 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-578x448.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcue-rd-bue-rgb-4-600x592.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://www.sdcoe.net",
-              "alt": "North Island Credit Union logo",
+              "link": "http://www.sdcue.org",
+              "alt": "San Diego CUE logo",
               "title": "",
               "linkInNewWindow": true
             }

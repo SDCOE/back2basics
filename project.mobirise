@@ -47,7 +47,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 61,
+    "uniqCompNum": 64,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -207,7 +207,7 @@
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
-          "meta": "<a href=\"https://drive.google.com/file/d/1yAo8ocJD2xWATHxU_WnITXb1oN5YE81E/view?usp=sharing\" target=\"_blank\" class=\"text-primary\">Download flyer</a>",
+          "meta": "<a href=\"https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing\" target=\"_blank\" class=\"text-primary\" style=\"font-style: normal;\">Download flyer</a>",
           "_tags": [
             "Theme"
           ],
@@ -221,11 +221,11 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "columns": "5",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@assets/images/design%20thinking-592x427.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -233,9 +233,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -244,32 +244,30 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "place holder, no image",
-              "title": ""
+              "alt": "blank placeholder ",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-600x465.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-128x99.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
+              "linkInNewWindow": true,
               "link": "http://www.sdcoe.net",
-              "alt": "SCDCOE Future without boundaries",
-              "title": "",
-              "linkInNewWindow": true
+              "alt": "SDCOE Logo"
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/b2b-schedule2020-2021-600x776.jpg",
+              "src": "@PROJECT_PATH@/assets/images/b2b-schedule2020-2021-3-600x776.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://drive.google.com/file/d/1yAo8ocJD2xWATHxU_WnITXb1oN5YE81E/view?usp=sharing",
-              "alt": " back to basics flyer with generic information",
-              "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": true,
+              "link": "https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing",
+              "alt": "Event Flyer PDF"
             }
           },
           "media4": {
@@ -278,10 +276,9 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://www.sdcue.org",
-              "alt": "San Diego CUE logo",
-              "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": true,
+              "link": "http://sdcue.org",
+              "alt": "SDCUE Logo"
             }
           },
           "media5": {
@@ -291,8 +288,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "place holder, no image",
-              "title": ""
+              "alt": "blank placeholder image",
+              "linkInNewWindow": false
             }
           },
           "media6": {
@@ -331,7 +328,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-10"
+          "_anchor": "features3-1r"
         },
         {
           "_params": {

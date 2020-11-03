@@ -444,7 +444,7 @@
               "name": "folder",
               "family": "Mobirise2",
               "active": true,
-              "link": "index.html#features6-v",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": "",
               "newWindow": true,
               "color": "#ffffff"
@@ -457,7 +457,7 @@
               "name": "opened-folder",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -470,7 +470,7 @@
               "name": "document",
               "family": "et-line",
               "active": true,
-              "link": "https://learninginnovationsummit2020.sched.com/",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -483,9 +483,10 @@
               "name": "documents",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "media5": {
@@ -579,7 +580,7 @@
               "name": "photo",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html#features6-v",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": "",
               "newWindow": true,
               "color": "#ffffff"
@@ -592,7 +593,7 @@
               "name": "sites",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -605,7 +606,7 @@
               "name": "bulleted-list",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://learninginnovationsummit2020.sched.com/",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -618,9 +619,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "media5": {
@@ -740,7 +742,7 @@
               "name": "user-2",
               "family": "Mobirise2",
               "active": true,
-              "link": "index.html#features6-v",
+              "link": "index.html",
               "size": "",
               "newWindow": true,
               "color": "#ffffff"
@@ -753,7 +755,7 @@
               "name": "video-play",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -766,7 +768,7 @@
               "name": "browse",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://learninginnovationsummit2020.sched.com/",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -779,9 +781,10 @@
               "name": "video",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "media5": {
@@ -901,7 +904,7 @@
               "name": "features",
               "family": "Mobirise2",
               "active": true,
-              "link": "index.html#features6-v",
+              "link": "index.html",
               "size": "",
               "newWindow": true,
               "color": "#ffffff"
@@ -914,7 +917,7 @@
               "name": "delivery",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -927,7 +930,7 @@
               "name": "puzzle",
               "family": "et-line",
               "active": true,
-              "link": "https://learninginnovationsummit2020.sched.com/",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
               "newWindow": true,
               "color": "#ffffff"
@@ -940,9 +943,10 @@
               "name": "numbered-list",
               "family": "Mobirise2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "media5": {

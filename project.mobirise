@@ -183,7 +183,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "BACK 2 BASICS<br>",
-          "text": "A SERIES OF WORKSHOPS FOR BEGINNERS<br>--ALL SESSIONS ARE CURRENTLY FULL--<br>SEE BELOW FOR FURTHER INFORMATION&nbsp;",
+          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>--ALL SESSIONS ARE CURRENTLY FULL--<br><span style=\"font-style: normal;\">See below for further information</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"

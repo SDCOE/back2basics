@@ -47,7 +47,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -182,8 +182,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "BACK 2 BASICS<br><br>",
-          "text": "A SERIES OF WORKSHOPS FOR BEGINNERS<br>Check below for upcoming dates and sessions",
+          "title": "BACK 2 BASICS<br>",
+          "text": "A SERIES OF WORKSHOPS FOR BEGINNERS<br>--ALL SESSIONS ARE CURRENTLY FULL--<br>SEE BELOW FOR FURTHER INFORMATION&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
@@ -354,19 +354,19 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#f3c649"
+              "color": "#2969b0"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#005488"
           },
-          "title": "REGISTRATION",
+          "title": "<span style=\"font-weight: normal;\">REGISTRATION</span><br>",
           "meta": "Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist. ",
           "_tags": [
             "Theme"
@@ -375,12 +375,41 @@
           "_anchor": "header3-1o"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#005488"
+          },
+          "title": "<span style=\"font-weight: normal;\">SORRY WE ARE AT CAPACITY FOR THE CURRENT SERIES</span><br>",
+          "meta": "Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist. ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1s"
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"mailto:pamela.rabin@sdcoe.net\" data-toolbar=\"-mbrBtnMove\">QUESTIONS ABOUT EXISTING REGISTRATIONS?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +435,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics Series",
-          "meta": "Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
+          "meta": "<br>--ALL SESSIONS FULL--<br>Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
           "_tags": [
             "Theme"
           ],
@@ -704,7 +733,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics 2.0",
-          "meta": "Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
+          "meta": "--ALL SESSIONS FULL--<br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
           "_tags": [
             "Theme"
           ],
@@ -866,7 +895,7 @@
             "bgColor": "#fff"
           },
           "title": "Beyond the Basics Series",
-          "meta": "Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
+          "meta": "--ALL SESSIONS FULL--<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1015,12 +1044,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR CURRENT BACK2BASICS SERIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"mailto:pamela.rabin@sdcoe.net\" data-toolbar=\"-mbrBtnMove\">QUESTIONS ABOUT EXISTING REGISTRATIONS?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1n"
+          "_anchor": "buttons1-1t"
         },
         {
           "_params": {

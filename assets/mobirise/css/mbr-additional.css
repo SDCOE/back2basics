@@ -535,10 +535,23 @@ section.form .container {
   text-align: center;
 }
 #header3-1o .mbr-section-title {
-  color: #f3c649;
+  color: #2969b0;
 }
 #header3-1o .mbr-section-subtitle {
   color: #ffffff;
+}
+#header3-1s .mbr-section-title,
+#header3-1s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1s .mbr-section-title {
+  color: #f3c649;
+}
+#header3-1s .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-1s .mbr-section-title SPAN {
+  font-size: 30px;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {

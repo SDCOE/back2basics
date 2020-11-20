@@ -48,7 +48,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "uniqCompNum": 66,
-    "versionPublish": "5.1.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
     "imageResize": true
@@ -183,7 +183,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "BACK 2 BASICS<br>",
-          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>--ALL SESSIONS ARE CURRENTLY FULL--<br><span style=\"font-style: normal;\">See below for further information</span>",
+          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>Registration Currently Open - 11/19/20<br><span style=\"font-style: normal;\">See below for further information</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
@@ -354,7 +354,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#2969b0"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -395,8 +395,8 @@
             "paddingBottom": 1,
             "bgColor": "#005488"
           },
-          "title": "<span style=\"font-weight: normal;\">SORRY WE ARE AT CAPACITY FOR THE CURRENT SERIES</span><br>",
-          "meta": "Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist. ",
+          "title": "<span style=\"font-weight: 400;\">Currently Open Again</span>",
+          "meta": "Note: We are attempting to keep class sizes manageable and relatively small. . There is a separate sign up form for each course. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -435,7 +435,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics Series",
-          "meta": "<br>--ALL SESSIONS FULL--<br>Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
+          "meta": "<span style=\"font-style: normal;\">REMAINING CLASSES OPEN FOR REGISTRATION&nbsp; 11/20/20<br></span><br>Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
           "_tags": [
             "Theme"
           ],
@@ -543,10 +543,10 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Google Drive",
+          "title1": "PAST: Google Drive",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Tuesday, Nov 17<br>5 to 6 pm",
-          "title2": "Drive a Little Further",
+          "title2": "PAST: Drive a Little Further",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Thursday, Nov 19<br>5 to 6 pm",
           "title3": "Google Docs",
@@ -733,7 +733,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics 2.0",
-          "meta": "--ALL SESSIONS FULL--<br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
+          "meta": "<span style=\"font-style: normal;\">CLASSES OPEN FOR REGISTRATION</span><br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
           "_tags": [
             "Theme"
           ],
@@ -895,7 +895,7 @@
             "bgColor": "#fff"
           },
           "title": "Beyond the Basics Series",
-          "meta": "--ALL SESSIONS FULL--<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
+          "meta": "CLASSES OPEN FOR REGISTRATION<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
           "_tags": [
             "Theme"
           ],

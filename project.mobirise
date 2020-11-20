@@ -47,7 +47,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 66,
+    "uniqCompNum": 69,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -409,7 +409,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"mailto:pamela.rabin@sdcoe.net\" data-toolbar=\"-mbrBtnMove\">QUESTIONS ABOUT EXISTING REGISTRATIONS?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
@@ -1044,12 +1044,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"mailto:pamela.rabin@sdcoe.net\" data-toolbar=\"-mbrBtnMove\">QUESTIONS ABOUT EXISTING REGISTRATIONS?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1t"
+          "_anchor": "buttons1-1u"
         },
         {
           "_params": {

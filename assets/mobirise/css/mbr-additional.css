@@ -513,6 +513,9 @@ section.form .container {
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #005488!important;
 }
+#ext_menu-3 A {
+  font-size: 10px;
+}
 #header5-5 .mbr-section-title {
   color: #005488;
   font-size: 80px;

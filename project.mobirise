@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Back 2 Basics",
+    "name": "Back2Basics",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": " Back 2 Basics; SDCOE Educational Technology",
+        "title": " Back2Basics; SDCOE Educational Technology",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -183,7 +183,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "BACK 2 BASICS<br>",
-          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>Registration Currently Open - 11/19/20<br><span style=\"font-style: normal;\">See below for further information</span>",
+          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>Registration Currently Closed - 3/11/21<br><span style=\"font-style: normal;\">We are looking to offer new basics courses in Fall 2021</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
@@ -201,9 +201,9 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
@@ -216,127 +216,11 @@
         },
         {
           "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/blankimageholder-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "blank placeholder ",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-128x99.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "linkInNewWindow": true,
-              "link": "http://www.sdcoe.net",
-              "alt": "SDCOE Logo"
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/b2b-schedule2020-2021-3-600x776.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "linkInNewWindow": true,
-              "link": "https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing",
-              "alt": "Event Flyer PDF"
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcue-rd-bue-rgb-4-600x592.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "linkInNewWindow": true,
-              "link": "http://sdcue.org",
-              "alt": "SDCUE Logo"
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/blankimageholder-600x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "blank placeholder image",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-1r"
-        },
-        {
-          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>The San Diego County Office of Education's Educational Technology Department in partnership with San Diego CUE (SDCUE) are offering a new series of free, beginner level courses for county teachers to help prepare for school and for further events offered by SDCUE through out the year!&nbsp;</p><p><br></p><p><b><i>Build your basic skills then learn more with networking and events offered by&nbsp;<a href=\"http://sdcue.org\" target=\"_blank\" style=\"\">SDCUE</a>. Find out about membership opportunities at <a href=\"http://sdcue.org\" class=\"text-primary\" target=\"_blank\">sdcue.org</a>&nbsp;</i></b></p><div><br></div><div><b>BACK2BASICS</b></div><div>These three series begin with our Back 2 Basics (B2B) series, this is a re-offering of our successful original series launched earlier this year.. Hands on, watch and do, workshops teach: Google Drive, Google Docs, Google Drawing, Google Slides, Google Forms, and Google Sheets (as they are used to analyze results from Google Forms). There are eight sessions for this very basic training.</div><div><br></div><div><b>BACK2BASICS 2.0</b></div><div>Next, through four online sessions explore other high impact apps that are part of any online teachers utility belt. These include Flipgrid, Screencastify, Jamboard, and Seesaw. Walk away with a user account set up, knowledge of how to create your own activities, and some ideas for basic implementation.&nbsp;</div><div><br></div><div><b>BEYOND THE BASICS</b></div><div>In our final series of four sessions we invite you to dig a little deeper with technology integration. These pedagogy based online sessions focus on topics many teachers are grappling with in their online environment: Enhanced Packet Instruction - Going Oldschool, Frameworks for Technology Integration, Managing Small Group Instruction Online, and Same Assignment Different Levels.&nbsp;</div><div><br></div><div><b>Who should sign up?&nbsp;<br><br></b></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div><div><br></div><div>These workshops are geared toward classroom teachers and classroom support staff. They are not geared toward school office staff or other support staff.</div><p></p>",
+          "text": "<p>The San Diego County Office of Education's Educational Technology Department in partnership with San Diego CUE (SDCUE) are offering a new series of free, beginner level courses for county teachers to help prepare for school and for further events offered by SDCUE through out the year!&nbsp;</p><p><br></p><p><b><i>Build your basic skills then learn more with networking and events offered by&nbsp;<a href=\"http://sdcue.org\" target=\"_blank\" style=\"\">SDCUE</a>. Find out about membership opportunities at <a href=\"http://sdcue.org\" class=\"text-primary\" target=\"_blank\">sdcue.org</a>&nbsp;</i></b></p><div><br></div><div><b>Who signed up?&nbsp;<br><br></b></div><div>Teachers, \"beginners\", should have a general understanding of how computers work and understand the basic operating system. Chrome browser should be installed. Our online meeting platform is Zoom. It is highly recommended to have a mouse connected and a second device or second monitor available to make watching instruction in zoom and working in the browser more easily accessible.</div><div><br></div><div>These workshops are geared toward classroom teachers and classroom support staff. They are not geared toward school office staff or other support staff.</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -347,74 +231,6 @@
               "font-size": "17px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#005488"
-          },
-          "title": "<span style=\"font-weight: normal;\">REGISTRATION</span><br>",
-          "meta": "Note: For more support, class sizes will be limited. There is a separate sign up form for each course. We will accept 100 attendees and then close registration. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session. Please email pamela.rabin@sdcoe.net as soon as possible if you are not able to attend so we can invite people from any waitlist. ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#005488"
-          },
-          "title": "<span style=\"font-weight: 400;\">Currently Open Again</span>",
-          "meta": "Note: We are attempting to keep class sizes manageable and relatively small. . There is a separate sign up form for each course. Please register for the classes that you will attend. Please use your district/work emails as this will help us determine eligibility. These courses are geared toward classroom teachers and classroom support staff. You will be emailed Zoom links and information the day before your session.&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1s"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1k"
         },
         {
           "_styles": {
@@ -435,7 +251,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics Series",
-          "meta": "<span style=\"font-style: normal;\">REMAINING CLASSES OPEN FOR REGISTRATION&nbsp; 11/20/20<br></span><br>Review the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
+          "meta": "CLASSES CURRENTLY CLOSED FOR REGISTRATION - SERIES ENDED<br>Reviewed the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
           "_tags": [
             "Theme"
           ],
@@ -733,7 +549,7 @@
             "bgColor": "#fff"
           },
           "title": "Back 2 Basics 2.0",
-          "meta": "<span style=\"font-style: normal;\">CLASSES OPEN FOR REGISTRATION</span><br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
+          "meta": "<span style=\"font-style: normal;\">CLASSES CURRENT CLOSED FOR REGISTRATION -SERIES ENDED</span><br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
           "_tags": [
             "Theme"
           ],
@@ -895,7 +711,7 @@
             "bgColor": "#fff"
           },
           "title": "Beyond the Basics Series",
-          "meta": "CLASSES OPEN FOR REGISTRATION<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
+          "meta": "CLASSES CURRENTLY CLOSED FOR REGISTRATION -SERIES ENDED<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1044,7 +860,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EDTECH EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],

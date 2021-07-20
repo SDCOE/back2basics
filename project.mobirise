@@ -430,7 +430,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "0",
@@ -527,14 +527,14 @@
             "Theme"
           ],
           "title1": "Build Awareness About <br>Your Students",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>Google Forms</b><br>Tuesday, October 26<br>5 to 6 pm",
+          "subtitle1": "<br><b>Google Forms\n</b><div>Tuesday, October 26\n</div><div>5 to 6 pm</div>",
+          "caption1": "If you are unaware of what is happening in your student’s lives, you can’t truly understand their needs. In online/hybrid environments we have to include structures for learning about our students so that we don’t default to stereotypes, bias, and what you “think”. <br><br>Know what's going on in your student's lives by building a Check-in Survey. We walk you through how to build it, you have a form you can use immediately, and you learn about Google Forms in the process. It’s a two-for-one!<br>",
           "title2": "Putting Your Resources&nbsp;<br>All Together",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Google Sites and/or Google Slides</b><br>Tuesday, November 16<br>5 to 6 pm",
+          "subtitle2": "<br><b>Google Sites and/or Google Slides\n</b><div>Tuesday, November 16\n</div><div>5 to 6 pm</div>",
+          "caption2": "Now that you've built what you need for a great personalized space, we'll show you how to create a webpage to put it in using Google Sites or Google Slides. Whether to teach in a fully online, hybrid, or face to face environment, having a strong web presence is crucial.<br><br>If you have been attending our previous sessions you will have some great elements to place in a website, if not, don’t worry because you’ll learn a lot about how these programs are used to create and publish content.&nbsp;",
           "title3": "Build a Strong Parent/Family<br>Connection",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Talkingpoints</b><br>Tuesday, Dec 7<br>5 to 6 pm",
+          "subtitle3": "<br><b>Talkingpoints\n</b><div>Tuesday, Dec 7\n</div><div>5 to 6 pm</div>",
+          "caption3": "Anytime, anywhere access to classroom information is one way to ensure that parents and students see your classroom as supportive and welcoming. So what elements make up a robust online/hybrid webspace and what other ways can you connect directly with families? <br><br>Add some last-minute, but important, details to your classroom webspace, and then let’s get started with a great, FREE app for multilingual parent communication called Talkingpoints.com",
           "title4": "Sheets for use with Forms",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Thursday, Dec 17 <br>5 to 6 pm",
@@ -557,7 +557,22 @@
               "color": "#f3c649"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "DIV": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H5": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },

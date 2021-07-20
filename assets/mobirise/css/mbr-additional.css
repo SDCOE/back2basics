@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -564,6 +568,17 @@ section.form .container {
 }
 #features6-1a P {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#features6-1a DIV {
+  font-family: 'Montserrat', sans-serif;
+}
+#features6-1a H5 {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#features6-1a B {
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-q P {
   color: #005488;

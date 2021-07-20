@@ -204,13 +204,13 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
-          "meta": "<a href=\"https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing\" target=\"_blank\" class=\"text-primary\" style=\"\"><b>Download flyer</b></a>",
+          "meta": "<a href=\"https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing\" target=\"_blank\" class=\"text-primary\" style=\"font-style: normal;\">Download flyer</a>",
           "_tags": [
             "Theme"
           ],

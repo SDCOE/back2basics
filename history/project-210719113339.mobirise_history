@@ -47,8 +47,8 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 70,
-    "versionPublish": "5.3.10",
+    "uniqCompNum": 69,
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
     "imageResize": true
@@ -79,7 +79,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">SDCOE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INNOVATION DIVISION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-q\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/Pages/default.aspx\" aria-expanded=\"false\" target=\"_blank\">INNOVATION SDCOE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">#InnovateSD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">EDUCATIONAL TECHNOLOGY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"http://edtech.innovatesd.org\" aria-expanded=\"false\" target=\"_blank\">Ed Tech Events Page</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/educational-technology/Pages/default.aspx\" aria-expanded=\"false\" target=\"_blank\">Ed Tech SDCOE Main Page</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" target=\"_blank\">REGISTER TO ATTEND</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"true\">SDCOE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INNOVATION DIVISION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-q\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/Pages/default.aspx\" aria-expanded=\"true\" target=\"_blank\">INNOVATION SDCOE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">#InnovateSD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">EDUCATIONAL TECHNOLOGY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"http://edtech.innovatesd.org\" aria-expanded=\"false\" target=\"_blank\">Ed Tech Events Page</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/educational-technology/Pages/default.aspx\" aria-expanded=\"false\" target=\"_blank\">Ed Tech SDCOE Main Page</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" target=\"_blank\">REGISTER TO ATTEND</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -169,7 +169,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -186,8 +186,8 @@
             "overlayOpacity": "0.9"
           },
           "title": "BACK 2 BASICS<br>",
-          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>Fall Series 2021<br>BUILDING BASIC SKILLS FOR BLENDED LEARNING<br>Aug 17 - Dec 7",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">REGISTER FOR SESSIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OTHER ED TECH EVENTS</a>   ",
+          "text": "<span style=\"font-style: normal;\">A SERIES OF WORKSHOPS FOR BEGINNERS<br></span><br>Registration Currently Closed - 3/11/21<br><span style=\"font-style: normal;\">Thank you San Diego County Educators for a Successful Series</span><br><span style=\"font-style: normal;\">We are looking to offer new basics courses in Fall 2021</span><br><span style=\"font-style: normal;\">&nbsp;</span><br><br><span style=\"font-style: normal;\">*Please note: If you are looking for our current courses <br>called the <a href=\"http://ready2go.innovatesd.org\" class=\"text-primary\" target=\"_blank\"><b>Ready 2 Go series, click here to go to our website</b></a>.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://summit2020.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">SCHEDULE (forthcoming)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScWL3i1rPp-y-CYJdMYfMVPPrcpmyVTsMYRs2Ql_vN-IkK09A/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -204,13 +204,13 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "Free Beginner Level Trainings",
-          "meta": "<a href=\"https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing\" target=\"_blank\" class=\"text-primary\" style=\"\"><b>Download flyer</b></a>",
+          "meta": "<a href=\"https://drive.google.com/file/d/1Vu3a41tZnhXmHDCTUK3OH05CoM5nNMsV/view?usp=sharing\" target=\"_blank\" class=\"text-primary\" style=\"font-style: normal;\">Download flyer</a>",
           "_tags": [
             "Theme"
           ],
@@ -223,7 +223,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>The San Diego County Office of Education's Educational Technology Department is offering a continuation of our free, online, beginner-level courses for county teachers. Our courses are aimed at creating strong online and hybrid environments for students that increase student/family access to information and resources, anticipate student variation from the onse.0t, and foster rigorous academic inquiry, collaboration, and educational synthesis.</p><div><br></div><div><b>Who can sign up?&nbsp;<br></b><span style=\"font-size: 1.07rem;\">These workshops are geared toward classroom teachers and classroom support staff. While they are not geared toward school office staff or other support staff, these staff members have found benefit in attending and are welcome to attend.&nbsp;</span><b><br></b></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><b>How do I attend?</b></div><div>Please use the registration link found below. There is a single registration form for selecting classes of interest. Registrants will receive a confirmation email with there choices indicated. Reminder emails are sent to registered participants about a week in advance along with the Zoom link for the meeting. We send out additional reminders on the day of the event for your convenience.&nbsp;</div><div><br></div><div><b>Do I have to attend all the sessions?</b></div><div>For the most powerful experience, it's recommended that attendees plan to participate in all the sessions. We've planned the sessions to compliment each other through a larger overarching goal of creating a richer online/hybrid environment. However, beginning teachers will learn new skills regardless. Each session creates a single component of this \"richer environment\".</div><div><br></div><div><b>What do I need to participate?</b></div><div>In order to participate in our hands-on sessions, we highly recommend having either a two-monitor set up, or two different devices so you can easily view and work at the same time. However, this and our other suggestions are by no means a requirement. We also recommend using a laptop or desktop device, rather than a tablet. Having a mouse can help with efficiency when you are creating. Finally, we will be using many Google applications which work best in the <a href=\"https://www.google.com/chrome/\" class=\"text-primary\" target=\"_blank\"><b>Chrome Browser</b></a>, and some Google Extensions which only work on a Chrome Browser. Installing Chrome in advance and making sure you have a <a href=\"https://support.google.com/accounts/answer/27441?hl=en\" class=\"text-primary\" target=\"_blank\"><b>Google account</b></a> (either through your district or a personal account) is necessary.</div><p></p>",
+          "text": "<p>The San Diego County Office of Education's Educational Technology Department in partnership with San Diego CUE (SDCUE) recently offerend a new series of free, beginner level courses for county teachers to help prepare for school and for further events offered by SDCUE throughout the year.&nbsp;&nbsp;<b><i>Find out about membership opportunities at <a href=\"http://sdcue.org\" class=\"text-primary\" target=\"_blank\">sdcue.org</a>&nbsp;</i></b></p><div><br></div><div><b>Who signed up?&nbsp;<br><br></b></div><div>Teachers, \"beginners\", who had a general understanding of how computers work and understand the basic operating system.&nbsp;<span style=\"font-size: 1.07rem;\">These workshops were geared toward classroom teachers and classroom support staff. They were not geared toward school office staff or other support staff, but these staff members were welcome to, and did attend.</span></div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -253,8 +253,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Back 2 Basics Fall Series",
-          "meta": "Registration Open",
+          "title": "Back 2 Basics Series",
+          "meta": "CLASSES CURRENTLY CLOSED FOR REGISTRATION - SERIES ENDED<br>Reviewed the core Google Suite for Education apps.<br>8 sessions from November 17 through Dec 17. (Thanksgiving week excluded)",
           "_tags": [
             "Theme"
           ],
@@ -262,29 +262,16 @@
           "_anchor": "header3-1b"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR SESSIONS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OTHER EDTECH EVENTS</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1x"
-        },
-        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
             "parallax": true,
@@ -302,8 +289,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "profile-female",
-              "family": "et-line",
+              "name": "folder",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": "",
@@ -315,8 +302,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "flag",
-              "family": "et-line",
+              "name": "opened-folder",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
@@ -328,7 +315,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "calendar",
+              "name": "document",
               "family": "et-line",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
@@ -375,15 +362,15 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Humanize Your Online &amp; <br>Hybrid Environments<br><br>",
-          "subtitle1": "<b>Screencastify with a Google Slides Template</b><div>Tuesday, August 17\n</div><div>5 to 6 pm</div>",
-          "caption1": "Whether you are fully online, hybrid, or using other blended learning approaches it's important to have a well-organized and personable space for students to access information. We'll kick off this series by helping you craft an engaging &amp; personalized welcome message for your students. <br><br>Learn or revisit some basics of Screencastify and Google Docs while being supported step by step through the process. This is a hands-on class, our goal is for you to leave with a product you created.&nbsp;",
-          "title2": "Create Clever Classroom <br>Banners &amp; Headers<br><br>",
-          "subtitle2": "<b>Google Drawings &amp; Bitmoji App\n</b><div>Tuesday, September 21\n</div><div>5 to 6 pm</div>",
-          "caption2": "Ever wonder how other teachers create their own banners for their classroom websites, newsletters, or even Google Forms? Add another layer to your virtual space by learning to create headers and banners in Google Drawings. We'll give you a template so you don't have to guess the dimensions and can start now.<br><br>If you already have a Bitmoji account we'll show you how to easily pull in images that add a little bit of fun. Don't have a Bitmoji Account? Don't worry, here's a step by step job aid. (Job Aid: Click Here)",
-          "title3": "Classroom Resources Hub <br>&amp; Schedules<br><br>",
-          "subtitle3": "<b>Google Docs - Formatting, Tables, &amp; Publishing</b><div>Tuesday, October 12\n</div><div>5 to 6 pm</div>",
-          "caption3": "Keeping resources organized and accessible for students and families is a must. We will be walking you through how to create a one-stop shop or \"Hub\" for all the classroom resources that students/families may use frequently. Also create and customize classroom schedules to be visually appealing and organized.&nbsp;<br><br>Our goal is that you leave with a really good start on this product and an easy plan for how to expand on it. If you are already familiar with Google Docs we are sure that you will still learn something new!&nbsp;",
+          "title1": "PAST: Google Drive",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Tuesday, Nov 17<br>5 to 6 pm",
+          "title2": "PAST: Drive a Little Further",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Thursday, Nov 19<br>5 to 6 pm",
+          "title3": "Google Docs",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Tuesday, Dec 1<br>5 to 6 pm",
           "title4": "Do More with Docs",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Thursday, Dec 3<br>5 to 6 pm",
@@ -403,25 +390,10 @@
           "_anchor": "features6-v",
           "_styles": {
             "H4": {
-              "color": "#f3c649",
-              "text-align": "center"
+              "color": "#f3c649"
             },
             "P": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "H5": {
               "color": "#ffffff"
-            },
-            "DIV": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "B": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -435,7 +407,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
             "parallax": true,
@@ -453,8 +425,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "puzzle",
-              "family": "et-line",
+              "name": "photo",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": "",
@@ -466,8 +438,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "gift",
-              "family": "et-line",
+              "name": "sites",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
@@ -479,8 +451,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
+              "name": "bulleted-list",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
               "size": 0,
@@ -526,15 +498,15 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Build Awareness About <br>Your Students",
+          "title1": "Google Drawing",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>Google Forms</b><br>Tuesday, October 26<br>5 to 6 pm",
-          "title2": "Putting Your Resources&nbsp;<br>All Together",
+          "caption1": "Tuesday, Dec 8<br>5 to 6 pm",
+          "title2": "Google Slides",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Google Sites and/or Google Slides</b><br>Tuesday, November 16<br>5 to 6 pm",
-          "title3": "Build a Strong Parent/Family<br>Connection",
+          "caption2": "Thursday, Dec 10<br>5 to 6 pm",
+          "title3": "Google Forms",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Talkingpoints</b><br>Tuesday, Dec 7<br>5 to 6 pm",
+          "caption3": "Tuesday, Dec 15<br>5 to 6 pm",
           "title4": "Sheets for use with Forms",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Thursday, Dec 17 <br>5 to 6 pm",
@@ -562,17 +534,354 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00aeef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Back 2 Basics 2.0",
+          "meta": "<span style=\"font-style: normal;\">CLASSES CURRENT CLOSED FOR REGISTRATION -SERIES ENDED</span><br>Explore other high-impact apps that increase classroom efficiency and engagement.<br>4 session from January 26 through February 4",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1c"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00aeef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "user-2",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": "",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "browse",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Flipgrid",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Tuesday, Jan 26<br>5 to 6 pm",
+          "title2": "Screencastify",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Thursday, Jan 28 <br>5 to 6 pm",
+          "title3": "Google Jamboard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Tuesday, Feb 2<br>5 to 6 pm",
+          "title4": "Seesaw",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Thursday, Feb 4<br>5 to 6 pm",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Flipgrid<br>Tuesday, Jan 26<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Screencastify<br>Thursday, Jan 28 <br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Jamboard<br>Tuesday, Feb 2<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Seesaw<br>Thursday, Feb 4<br>5 to 6 pm<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-1d",
+          "_styles": {
+            "H4": {
+              "color": "#f3c649"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00aeef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Beyond the Basics Series",
+          "meta": "CLASSES CURRENTLY CLOSED FOR REGISTRATION -SERIES ENDED<br>Take a short, but deeper dive improving your understanding of quality technology integration.&nbsp;<br>4 sessions from February 5 through March 4.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00aeef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": "",
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "puzzle",
+              "family": "et-line",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "newWindow": true,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "numbered-list",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Enhanced Packet Instruction-<br>Going Old School",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Tuesday, Feb 23<br>5 to 6 pm",
+          "title2": "Frameworks for&nbsp;<div>Technology Integration</div>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Thursday, Feb 25<br>5 to 6 pm",
+          "title3": "Managing Small Group&nbsp;<div>Instruction Online</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Tuesday, Mar 2<br>5 to 6 pm",
+          "title4": "Same Assignment<div>Different Levels</div>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Thursday, Mar 4<br>5 to 6 pm",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFpCw4ifAMJooLUcunH4-LABBSmjMsT7BMaGfv8zwumX2tpQ/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enhanced Packet <br>Instruction - Going Old School<br>Tuesday, Feb 23<br>5 to 6 pm<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_3eQ2xN6U4a6aTjTW4JNcD-cUKCUPV100FLuAJdmUVI3-_g/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Frameworks for <br>Technology Integration<br>Thursday, Feb 25<br>5 to 6 pm<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScBGxL8yx4ui_cEfAynDo3eUVpRez2kRDk8QOgxi56z37cFbA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Managing Small Group <br>Instruction Online<br>Tuesday, Mar 2<br>5 to 6 pm<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScdpvAGxjzBs1FWG7lSSmpXS8R5Eg0TbX5UJ2xyuB9j7bnx1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Same Assignment<br>Different Levels<br>Thursday, Mar 4<br>5 to 6 pm<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdyzWDZldheDq6LTX68OZXy_nrXWpCGy_nrB6CvGwGmm4wXiA/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Classroom<br>Saturday Oct. 10<br>9 to 11 am<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-1f",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR SESSIONS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OTHER EDTECH EVENTS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfYF6dTFJiwmQ7W8xuRkoaneU8nVxKNJbW47pRkyIAc0NdrmQ/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EDTECH EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSecqNi76LQV58F7j02ELV2pT2kXLv5B4f0Tf3yWE-eV1B1XKg/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST LIST FOR FUTURE OFFERINGS</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-1u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.sdcoe.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCOE WEBSITE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://sdcue.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SDCUE WEBSITE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1m"
         },
         {
           "_params": {

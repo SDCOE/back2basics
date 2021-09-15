@@ -48,10 +48,12 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "uniqCompNum": 70,
-    "versionPublish": "5.4.1",
+    "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -380,7 +382,7 @@
           "caption1": "Whether you are fully online, hybrid, or using other blended learning approaches it's important to have a well-organized and personable space for students to access information. We'll kick off this series by helping you craft an engaging &amp; personalized welcome message for your students. <br><br>Learn or revisit some basics of Screencastify and Google Docs while being supported step by step through the process. This is a hands-on class, our goal is for you to leave with a product you created.&nbsp;",
           "title2": "Create Clever Classroom <br>Banners &amp; Headers<br><br>",
           "subtitle2": "<b>Google Drawings &amp; Bitmoji App\n</b><div>Tuesday, September 21\n</div><div>5 to 6 pm</div>",
-          "caption2": "Ever wonder how other teachers create their own banners for their classroom websites, newsletters, or even Google Forms? Add another layer to your virtual space by learning to create headers and banners in Google Drawings. We'll give you a template so you don't have to guess the dimensions and can start now.<br><br>If you already have a Bitmoji account we'll show you how to easily pull in images that add a little bit of fun. Don't have a Bitmoji Account? Don't worry, here's a step by step job aid. (<a href=\"https://docs.google.com/document/d/1wVa4wahnkLKblJgFjMlMVvvsH8lqe0nMTDQFGDudhU0/edit?usp=sharing\" class=\"text-primary\" target=\"_blank\">Job Aid: Click Here</a>)",
+          "caption2": "Ever wonder how other teachers create their own banners for their classroom websites, newsletters, or even Google Forms? Add another layer to your virtual space by learning to create headers and banners in Google Drawings. We'll give you a template so you don't have to guess the dimensions and can start now.<br><br>If you already have a Bitmoji account we'll show you how to easily pull in images that add a little bit of fun. Don't have a Bitmoji Account? Don't worry, here's a step by step job aid. (Job Aid: Click Here)",
           "title3": "Classroom Resources Hub <br>&amp; Schedules<br><br>",
           "subtitle3": "<b>Google Docs - Formatting, Tables, &amp; Publishing</b><div>Tuesday, October 12\n</div><div>5 to 6 pm</div>",
           "caption3": "Keeping resources organized and accessible for students and families is a must. We will be walking you through how to create a one-stop shop or \"Hub\" for all the classroom resources that students/families may use frequently. Also create and customize classroom schedules to be visually appealing and organized.&nbsp;<br><br>Our goal is that you leave with a really good start on this product and an easy plan for how to expand on it. If you are already familiar with Google Docs we are sure that you will still learn something new!&nbsp;",
